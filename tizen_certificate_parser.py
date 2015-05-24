@@ -1,3 +1,4 @@
+#Copyright - Ajin Abraham - GPL3
 from xml.dom.minidom import parse
 import xml.dom.minidom
 import sys
